@@ -20,6 +20,7 @@ permalink: /
 - 薫る花は凛と咲く
 - 桃源暗記
 
+![image](/GHPages_WebSite/assets/images/a.png)
 
 
 ### ****
